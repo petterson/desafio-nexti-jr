@@ -12,6 +12,8 @@ dados, PostgreSQL. Em si, é um projeto maven com a configuração no pom.xml,
 possilvemente basta abrir o projeto em um ide: preferênicelmente spring tool suite 4 e baixar as dependências do pom.xml.
 Especialmente o banco de dados que você ira usar, bem como as configurações do banco de dados no arquivo, apllication.properties: 
 
+Baixei aqui e o projeto funcionou normalmente, caso não funcione ai me enive um email
+
 
 
 
