@@ -9,7 +9,7 @@ Então, utilizei para back-end infraestrutura spring, spring tool suite 4, sprin
 consequentemente o hibernate, implementação da especificação JPA da Jakarta
 EE, spring web, spring framework. Para validação, Bean Validation. Como base de
 dados, PostgreSQL. Em si, é um projeto maven com a configuração no pom.xml, 
-possilvemente basta abrir o projeto em um ide: preferênicelmente spring tool suite 4 e baixar as dependências dopom.xml.
+possilvemente basta abrir o projeto em um ide: preferênicelmente spring tool suite 4 e baixar as dependências do pom.xml.
 Especialmente o banco de dados que você ira usar, bem como as configurações do banco de dados no arquivo, apllication.properties: 
 
 
