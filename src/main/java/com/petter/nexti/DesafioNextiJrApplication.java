@@ -1,4 +1,4 @@
-package com.petter.tasks;
+package com.petter.nexti;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
